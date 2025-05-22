@@ -184,7 +184,7 @@ HIGHTLIGHTS
     z-index: 1;
     background-size: cover;
     background-repeat: no-repeat;
-    transform: translateY(100%);
+    transform: translateY(100%) rotate(180deg);
 }
 
 .highlight__wrapper {
@@ -230,6 +230,7 @@ FEATURES
 */
 
 #features {
+    height: 1000px;
     background-color: rgba(115, 66, 214, 0.1);
 }
 
